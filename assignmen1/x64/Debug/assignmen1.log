@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\personal file\computer\c++\code\VSHELLO\assignmen1\assignmen1\Source.cpp(66,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\personal file\computer\c++\code\VSHELLO\assignmen1\assignmen1\Source.cpp(73,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  assignmen1.vcxproj -> D:\personal file\computer\c++\code\VSHELLO\assignmen1\x64\Debug\assignmen1.exe
